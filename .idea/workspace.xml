@@ -7,9 +7,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d106e559-3a90-4670-ac0e-9442f2225744" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/bytebank/banco/teste/Teste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/bytebank/banco/modelo/GuardadorDeContas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/bytebank/banco/modelo/GuardadorDeReferencias.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/bytebank/banco/teste/TestGuardadorDeContas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/bytebank/banco/teste/TestaArrayString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/bytebank/banco/teste/TestaCastImplicitoExplicito.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/bytebank/banco/teste/TesteArrayReferencia.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java Parte 5/br/com/bytebank/banco/teste/Teste.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/bytebank/banco/teste/Teste.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/bytebank/banco/teste/TesteArrayDePrimitivos.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,9 +38,15 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="br.com.bytebank.banco.modelo" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -48,9 +60,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Teste">
-    <configuration name="TestaString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.bytebank.banco.teste.TestaString" />
+  <component name="RunManager" selected="Application.TestGuardadorDeContas">
+    <configuration name="TestGuardadorDeContas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.bytebank.banco.teste.TestGuardadorDeContas" />
       <module name="Java Parte 5" />
       <extension name="coverage">
         <pattern>
@@ -62,9 +74,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestaStringBuilder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.bytebank.banco.teste.TestaStringBuilder" />
+    <configuration name="TestaArrayString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.bytebank.banco.teste.TestaArrayString" />
       <module name="Java Parte 5" />
+      <option name="PROGRAM_PARAMETERS" value="1 2 teste pri teste Java" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="br.com.bytebank.banco.teste.*" />
@@ -88,8 +101,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Teste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.bytebank.banco.teste.Teste" />
+    <configuration name="TesteArrayDePrimitivos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.bytebank.banco.teste.TesteArrayDePrimitivos" />
       <module name="Java Parte 5" />
       <extension name="coverage">
         <pattern>
@@ -101,8 +114,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TesteContas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.bytebank.banco.teste.TesteContas" />
+    <configuration name="TesteArrayReferencia" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.bytebank.banco.teste.TesteArrayReferencia" />
       <module name="Java Parte 5" />
       <extension name="coverage">
         <pattern>
@@ -114,13 +127,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.TestaArrayString" />
+      <item itemvalue="Application.TestaToString" />
+      <item itemvalue="Application.TesteArrayDePrimitivos" />
+      <item itemvalue="Application.TesteArrayReferencia" />
+      <item itemvalue="Application.TestGuardadorDeContas" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Teste" />
+        <item itemvalue="Application.TestGuardadorDeContas" />
+        <item itemvalue="Application.TestaArrayString" />
+        <item itemvalue="Application.TesteArrayReferencia" />
+        <item itemvalue="Application.TesteArrayDePrimitivos" />
         <item itemvalue="Application.TestaToString" />
-        <item itemvalue="Application.TestaStringBuilder" />
-        <item itemvalue="Application.TestaString" />
-        <item itemvalue="Application.TesteContas" />
       </list>
     </recent_temporary>
   </component>
@@ -134,7 +154,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1576896093892</updated>
-      <workItem from="1576896097866" duration="11750000" />
+      <workItem from="1576896097866" duration="12549000" />
+      <workItem from="1577150735264" duration="4816000" />
     </task>
     <servers />
   </component>
@@ -146,7 +167,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
