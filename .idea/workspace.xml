@@ -7,9 +7,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d106e559-3a90-4670-ac0e-9442f2225744" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/br/com/bytebank/banco/teste/util/TesteGenerics.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java Parte 5/br/com/bytebank/banco/modelo/GuardadorDeContas.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Parte 5/br/com/bytebank/banco/modelo/GuardadorDeContas.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java Parte 5/br/com/bytebank/banco/teste/TestGuardadorDeContas.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Parte 5/br/com/bytebank/banco/teste/TestGuardadorDeContas.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,6 +38,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="br.com.bytebank.banco.teste.util" />
       <recent name="br.com.bytebank.banco.teste" />
       <recent name="br.com.bytebank.banco.modelo" />
     </key>
@@ -150,7 +150,7 @@
       <option name="presentableId" value="Default" />
       <updated>1576896093892</updated>
       <workItem from="1576896097866" duration="12549000" />
-      <workItem from="1577150735264" duration="6014000" />
+      <workItem from="1577150735264" duration="6274000" />
     </task>
     <servers />
   </component>
