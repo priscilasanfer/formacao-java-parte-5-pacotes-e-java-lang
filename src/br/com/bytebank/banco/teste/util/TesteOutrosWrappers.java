@@ -20,6 +20,6 @@ public class TesteOutrosWrappers {
         lista.add(15.5);
         lista.add(1.9f);
 
-        
+
     }
 }
