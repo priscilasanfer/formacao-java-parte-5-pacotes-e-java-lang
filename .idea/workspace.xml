@@ -7,15 +7,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d106e559-3a90-4670-ac0e-9442f2225744" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/br/com/bytebank/banco/teste/util/TesteArrayListEquals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/bytebank/banco/teste/util/TesteAutoBoxing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/bytebank/banco/teste/util/TesteLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/bytebank/banco/teste/util/TesteVector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/bytebank/banco/teste/util/TesteOutrosWrappers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java Parte 5/br/com/bytebank/banco/modelo/Conta.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Parte 5/br/com/bytebank/banco/modelo/Conta.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java Parte 5/br/com/bytebank/banco/teste/util/Teste.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/bytebank/banco/modelo/Conta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/bytebank/banco/modelo/Conta.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/bytebank/banco/teste/util/Teste.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/bytebank/banco/teste/util/TesteArrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java Parte 5/br/com/bytebank/banco/teste/util/TesteAutoBoxing.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/bytebank/banco/teste/util/TesteAutoBoxing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/bytebank/banco/teste/util/TesteWrapperInteger.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -62,20 +57,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TesteAutoBoxing">
-    <configuration name="TesteArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.bytebank.banco.teste.util.TesteArrayList" />
-      <module name="Java Parte 5" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="br.com.bytebank.banco.teste.util.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.TesteOutrosWrappers">
     <configuration name="TesteArrayListEquals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.bytebank.banco.teste.util.TesteArrayListEquals" />
       <module name="Java Parte 5" />
@@ -89,10 +71,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TesteAutoBoxing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.bytebank.banco.teste.util.TesteAutoBoxing" />
+    <configuration name="TesteLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.bytebank.banco.teste.util.TesteLinkedList" />
       <module name="Java Parte 5" />
-      <option name="PROGRAM_PARAMETERS" value="10" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="br.com.bytebank.banco.teste.util.*" />
@@ -103,8 +84,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TesteLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.bytebank.banco.teste.util.TesteLinkedList" />
+    <configuration name="TesteOutrosWrappers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.bytebank.banco.teste.util.TesteOutrosWrappers" />
       <module name="Java Parte 5" />
       <extension name="coverage">
         <pattern>
@@ -129,20 +110,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TesteWrapperInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.bytebank.banco.teste.util.TesteWrapperInteger" />
+      <module name="Java Parte 5" />
+      <option name="PROGRAM_PARAMETERS" value="10" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.bytebank.banco.teste.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.TesteArrayList" />
       <item itemvalue="Application.TesteArrayListEquals" />
       <item itemvalue="Application.TesteLinkedList" />
       <item itemvalue="Application.TesteVector" />
-      <item itemvalue="Application.TesteAutoBoxing" />
+      <item itemvalue="Application.TesteWrapperInteger" />
+      <item itemvalue="Application.TesteOutrosWrappers" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TesteAutoBoxing" />
+        <item itemvalue="Application.TesteOutrosWrappers" />
+        <item itemvalue="Application.TesteWrapperInteger" />
         <item itemvalue="Application.TesteVector" />
         <item itemvalue="Application.TesteLinkedList" />
         <item itemvalue="Application.TesteArrayListEquals" />
-        <item itemvalue="Application.TesteArrayList" />
       </list>
     </recent_temporary>
   </component>
@@ -157,7 +152,7 @@
       <option name="presentableId" value="Default" />
       <updated>1576896093892</updated>
       <workItem from="1576896097866" duration="12549000" />
-      <workItem from="1577150735264" duration="10549000" />
+      <workItem from="1577150735264" duration="11437000" />
     </task>
     <servers />
   </component>

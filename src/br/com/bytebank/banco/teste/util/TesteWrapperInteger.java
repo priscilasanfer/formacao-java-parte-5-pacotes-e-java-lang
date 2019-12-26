@@ -3,7 +3,7 @@ package br.com.bytebank.banco.teste.util;
 import java.util.ArrayList;
 import java.util.List;
 
-public class TesteAutoBoxing {
+public class TesteWrapperInteger {
     public static void main(String[] args) {
 
         int idade = 29;
