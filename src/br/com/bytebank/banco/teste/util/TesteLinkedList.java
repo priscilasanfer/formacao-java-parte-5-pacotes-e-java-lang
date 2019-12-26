@@ -5,12 +5,13 @@ import br.com.bytebank.banco.modelo.ContaCorrente;
 import br.com.bytebank.banco.modelo.ContaPoupanca;
 
 import java.util.ArrayList;
+import java.util.LinkedList;
 
-public class Teste {
+public class TesteLinkedList {
     public static void main(String[] args) {
-        ArrayList lista = new ArrayList();
+        LinkedList<Conta> lista = new LinkedList<Conta>();
 
-        Conta cc = new ContaCorrente(123, 456);
+        Conta cc = new ContaCorrente(1233, 456);
         lista.add(cc);
 
         Conta cp = new ContaPoupanca(987, 654);
