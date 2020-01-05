@@ -7,14 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d106e559-3a90-4670-ac0e-9442f2225744" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/br/com/bytebank/banco/teste/util/TesteClasseAnonima.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/bytebank/banco/teste/util/TesteIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/bytebank/banco/teste/util/TesteLambda.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java Parte 5/br/com/bytebank/banco/teste/util/NumeroDaContaComparator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Parte 5/br/com/bytebank/banco/teste/util/NumeroDaContaComparator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java Parte 5/br/com/bytebank/banco/teste/util/Teste.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java Parte 5/br/com/bytebank/banco/teste/util/TitularDaContaComparator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Parte 5/br/com/bytebank/banco/teste/util/TitularDaContaComparator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/bytebank/banco/teste/util/Teste.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/bytebank/banco/teste/util/TesteOrdenacao.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -43,6 +36,9 @@
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="br.com.bytebank.banco.notas" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="br.com.bytebank.banco.teste.util" />
       <recent name="br.com.bytebank.banco.teste" />
@@ -83,7 +79,7 @@
       <module name="Java Parte 5" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="br.com.bytebank.banco.teste.util.*" />
+          <option name="PATTERN" value="br.com.bytebank.banco.notas.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,7 +92,7 @@
       <module name="Java Parte 5" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="br.com.bytebank.banco.teste.util.*" />
+          <option name="PATTERN" value="br.com.bytebank.banco.notas.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,7 +105,7 @@
       <module name="Java Parte 5" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="br.com.bytebank.banco.teste.util.*" />
+          <option name="PATTERN" value="br.com.bytebank.banco.notas.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,7 +118,7 @@
       <module name="Java Parte 5" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="br.com.bytebank.banco.teste.util.*" />
+          <option name="PATTERN" value="br.com.bytebank.banco.notas.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,7 +132,7 @@
       <option name="PROGRAM_PARAMETERS" value="10" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="br.com.bytebank.banco.teste.util.*" />
+          <option name="PATTERN" value="br.com.bytebank.banco.notas.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,6 +141,7 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.TesteClasseAnonima" />
       <item itemvalue="Application.TesteWrapperInteger" />
       <item itemvalue="Application.TesteOutrosWrappers" />
       <item itemvalue="Application.TesteLambda" />
@@ -172,7 +169,9 @@
       <option name="presentableId" value="Default" />
       <updated>1576896093892</updated>
       <workItem from="1576896097866" duration="12549000" />
-      <workItem from="1577150735264" duration="18082000" />
+      <workItem from="1577150735264" duration="20227000" />
+      <workItem from="1577615515076" duration="1370000" />
+      <workItem from="1578235454806" duration="1850000" />
     </task>
     <servers />
   </component>
